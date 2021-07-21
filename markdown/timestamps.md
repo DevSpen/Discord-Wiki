@@ -11,11 +11,11 @@ Although, unix time and epoch time are often used synonymously, they do have dif
 Here are some examples of timestamp markdown:  
 `<t:epoch_seconds>` - &lt;t:1563758772&gt;
 
-![Non-Styled Timestamp](../.gitbook/assets/image%20%283%29.png)
+![Non-Styled Timestamp](../.gitbook/assets/image%20%289%29.png)
 
 `<t:epoch_seconds:style>` - &lt;t:1563758772:R&gt;
 
-![Relative Styled Timestamp](../.gitbook/assets/image%20%284%29.png)
+![Relative Styled Timestamp](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="success" %}
 Both regular users and bots can use Timestamp Markdown!
