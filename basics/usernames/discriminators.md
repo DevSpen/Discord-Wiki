@@ -16,7 +16,7 @@ Remember, inorder to change your discriminator; you must have a Nitro or Nitro C
 
 **\#1:** Click the cog icon, which will open user settings.
 
-![](../../.gitbook/assets/image%20%287%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29.png)
 
 **\#2:** Under the "Username" section, click the "Edit" button on the right.
 

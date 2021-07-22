@@ -2,7 +2,7 @@
 
 Discord has its own version of [markdown](https://en.wikipedia.org/wiki/Markdown). It allows you to apply awesome text effects in your message!
 
-## Key
+### Key
 
 * 1: \*\*bold\*\*
 * 2: \*italics\*
@@ -24,9 +24,11 @@ Discord has its own version of [markdown](https://en.wikipedia.org/wiki/Markdown
 
 ![example](https://user-images.githubusercontent.com/69215413/126709147-e1bfa5b8-482d-4cb1-b57d-1a2225ec57a0.png)
 
-## Extended Guides
+### Extended Guides
 
 {% page-ref page="timestamps.md" %}
+
+{% page-ref page="codeblocks.md" %}
 
 
 
