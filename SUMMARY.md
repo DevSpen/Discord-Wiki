@@ -4,7 +4,9 @@
 
 ## Basics
 
-* [Changing Your Username](basics/changing-your-username.md)
+* [Usernames](basics/usernames/README.md)
+  * [Changing Your Username](basics/usernames/changing-your-username.md)
+  * [Discriminators](basics/usernames/discriminators.md)
 
 ## Markdown
 
