@@ -1,4 +1,5 @@
-You contribute to the Discord wiki by making a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+# Contributing
+You can contribute to the Discord wiki by making a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 Make sure to follow the 'Proper Wiki Structure' when contributing.
    
